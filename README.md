@@ -1,20 +1,25 @@
-# Npr_Render
-
 My Npr project .
 
-![                                                                      UE4 default render ](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210916145815.JPG)
+![img](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109172332097.png)
 
-![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210916150301.JPG)
+![                                                                    FOV 30 ; CameraAngle 45° ;](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210916160303.png)
 
----
+![                                                                                FOV 30 ](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210916160838.png)
 
--  **Invert ToneMapping**
+------
 
--  **RimLight**
+- Invert ToneMapping
+- RimLight
+- MatCap
+- Custom ShadowMap
+- Z offset
 
--  **MatCap**
+------
 
--  **Custom ShadowMap**
+![                                                                            3st shade](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180034208.png)
 
--  **Z offset**
+![                                                                              MatCap](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180041956.png)
 
+![                                                                           RimLight](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180045630.png)
+
+![                                                                        Shade Position](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180056241.gif)
