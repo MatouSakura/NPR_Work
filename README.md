@@ -1,4 +1,5 @@
 My Npr project .
+PS: 渲染的好 不如手巧
 
 ![img](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109172332097.png)
 
