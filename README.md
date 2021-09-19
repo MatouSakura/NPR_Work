@@ -32,4 +32,5 @@ My Npr project .
 
 - Shade Position
 
-  ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180056241.gif)
+ ![                                                                           RimLight]
+(https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180056241.gif)
