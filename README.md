@@ -1,37 +1,82 @@
-My Npr project .
-PS: 渲染的好 不如手巧
+# Npr_Render
 
-![img](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109172332097.png)
+渲染的好 不如手巧😣
 
-![                                                                    FOV 30 ; CameraAngle 45° ;](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210916160303.png)
+Front
+
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109172332097.png)
+
+Right 45 angle
+
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210916160303.png)
+
+Front Head
 
 ![                                                                                FOV 30 ](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210916160838.png)
 
-------
+Shadow
 
-- Invert ToneMapping
-- RimLight
+
+
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925171108.png)
+
+                             Shadow
+
+
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925171202.png)
+
+                          World Normal
+
+
+
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925171452.png)
+
+                         No Shadow
+
+
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925171434.png)
+
+                          World Normal
+
+Use GI 
+
+
+
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925173516.png)
+
+                      Shadow & GI
+
+
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925173651.png)
+
+                       No Shadow & GI
+
+
+---
+
+-  Invert ToneMapping
+
+-  RimLight
+
+-  MatCap
+
+-  Custom ShadowMap 
+
+-  Z-Offset
+
+-  GI (Blue Protocol)
+
+---
+
 - MatCap
-- Custom ShadowMap
-- Z offset
 
-------
-
-- ```
-   3st shade
-  ```
-
-  ![                                                                            3st shade](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180034208.png)
-
-- MatCap
-
-  ![                                                                              MatCap](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180041956.png)
+![                                                                              MatCap](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180041956.png)
 
 - RimLight
 
-  ![                                                                           RimLight](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180045630.png)
+![                                                                           RimLight](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180045630.png)
 
 - Shade Position
 
- ![                                                                           ShadePosition]
-(https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180056241.gif)
+![                                                                        Shade Position](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180056241.gif)
+
