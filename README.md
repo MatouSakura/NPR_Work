@@ -14,42 +14,34 @@ Front Head
 
 ![                                                                                FOV 30 ](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210916160838.png)
 
-Shadow
-
-
+ Use Shadow
 
 ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925171108.png)
 
-                             Shadow
+                                                        Shadow
 
 
 ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925171202.png)
 
-                          World Normal
-
-
+                                                 Use Shadow World Normal
 
 ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925171452.png)
 
-                         No Shadow
+                                                        No Shadow
 
 
 ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925171434.png)
 
-                          World Normal
+                                                  No Shadow World Normal
 
-Use GI 
+Use GI ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925173516.png)
 
-
-
-![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925173516.png)
-
-                      Shadow & GI
+                                                   Use Shadow & GI
 
 
 ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925173651.png)
 
-                       No Shadow & GI
+                                                      No Shadow & GI
 
 
 ---
