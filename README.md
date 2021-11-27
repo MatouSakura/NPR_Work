@@ -72,3 +72,19 @@ Use GI ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925173516.png)
 
 ![                                                                        Shade Position](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180056241.gif)
 
+
+---
+
+### **2021/11/27** update
+
+1. Add "**Multiple lights**" Editor & Run Time Support
+
+  ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20211127152111.png)
+
+  ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20211127152328.png)
+
+                                                                          Unlit
+
+  ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20211127152516.png)
+
+                                                                   Run Time
