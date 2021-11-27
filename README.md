@@ -12,7 +12,7 @@ Right 45 angle
 
 Front Head
 
-![                                                                                FOV 30 ](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210916160838.png)
+![  FOV 30 ](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210916160838.png)
 
  Use Shadow
 
@@ -77,7 +77,7 @@ Use GI ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925173516.png)
 
 ### **2021/11/27** update
 
-1. Add "**Multiple lights**" Editor & Run Time Support （M
+1. Add "**Multiple lights**" Editor & Run Time Support （Modulate Mat)
 
   ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20211127152111.png)
 
