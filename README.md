@@ -62,29 +62,29 @@ Use GI ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925173516.png)
 
 - MatCap
 
-![                                                                              MatCap](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180041956.png)
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180041956.png)
 
 - RimLight
 
-![                                                                           RimLight](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180045630.png)
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180045630.png)
 
 - Shade Position
 
-![                                                                        Shade Position](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180056241.gif)
+![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/202109180056241.gif)
 
 
 ---
 
 ### **2021/11/27** update
 
-1. Add "**Multiple lights**" Editor & Run Time Support
+1. Add "**Multiple lights**" Editor & Run Time Support （M
 
   ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20211127152111.png)
 
   ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20211127152328.png)
 
-                                                                          Unlit
+                               Unlit
 
   ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20211127152516.png)
 
-                                                                   Run Time
+                             Run Time
