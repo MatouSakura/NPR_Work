@@ -88,3 +88,18 @@ Use GI ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20210925173516.png)
   ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20211127152516.png)
 
                              Run Time
+---
+
+**2021/11/30 update**
+
+1. Add Editor & Run-Time **"Spherical Normal"**
+
+  ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20211130114154.png)
+
+  Fix Before
+
+  ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20211130113745.png)
+
+  After
+
+  ![](https://cdn.jsdelivr.net/gh/MatouSakura/blog-img/20211130113949.png)                             
